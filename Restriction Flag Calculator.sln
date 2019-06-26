@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restriction Flag Calculator", "Restriction Flag Calculator\Restriction Flag Calculator.csproj", "{103206FC-7F79-477D-A86F-9455F57898F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103206FC-7F79-477D-A86F-9455F57898F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103206FC-7F79-477D-A86F-9455F57898F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103206FC-7F79-477D-A86F-9455F57898F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103206FC-7F79-477D-A86F-9455F57898F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26EA05D-0B8F-4C01-A869-D73E960F08A8}
+	EndGlobalSection
+EndGlobal
